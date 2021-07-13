@@ -1,0 +1,11 @@
+{
+  "name": "product-list",
+  "version": "1.0.0",
+  "description": "Product List Microservice",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.19.1"
+  }
+}
